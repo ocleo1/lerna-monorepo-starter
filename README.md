@@ -1,5 +1,7 @@
 # Lerna Monorepo Starter
 
+🚨 NOTICE: a new monorepo starter, https://github.com/ocleo1/nx-monorepo-starter
+
 ## Requirements
 
 - npm >=7. It starts support workspace. Node v16 shipped with npm v8, recommended.
